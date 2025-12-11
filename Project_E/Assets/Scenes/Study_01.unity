@@ -464,6 +464,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c54f536ac546584ab05d0fb2898c256, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Study
+  say: Hello World!
+  text: 97
+  var01: 1
+  var02: 0.4
+  var03: 0.5
+  var04: 1
 --- !u!65 &971038191
 BoxCollider:
   m_ObjectHideFlags: 0

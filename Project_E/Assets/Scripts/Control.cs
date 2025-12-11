@@ -62,7 +62,7 @@ public class Control : MonoBehaviour
         } while (b > 0);
         */
 
-        string[] array = new string[5];
+        string[] array = new string[6];
         array[0] = "°­´ë¿ø";
         array[1] = "¹Î¿µÈñ";
         array[2] = "¹ÚµÎÆÈ";
